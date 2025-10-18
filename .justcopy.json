@@ -1,0 +1,38 @@
+{
+  "id": "backlink-blog",
+  "name": "SEO Blog Template",
+  "description": "Modern AI-powered blogging platform with strategic backlinks and AI agent integration",
+  "templatePath": "projects/backlink-blog",
+  "tags": [
+    "ai",
+    "blogging",
+    "seo",
+    "backlinks",
+    "nextjs",
+    "modern-design"
+  ],
+  "stack": [
+    "nextjs",
+    "typescript",
+    "tailwind",
+    "react"
+  ],
+  "popularity": 90,
+  "demo": null,
+  "features": [
+    "Interactive AI chat agents",
+    "Ultra-modern design with glass morphism",
+    "Pre-loaded AI development content",
+    "Strategic backlink management",
+    "SEO optimization with LLM-friendly content",
+    "Responsive design with smooth animations",
+    "Sample posts about AI development",
+    "Comprehensive footer with backlinks",
+    "Robots.txt optimized for AI crawlers"
+  ],
+  "category": "content",
+  "difficulty": "beginner",
+  "estimatedSetupTime": "3 minutes",
+  "repository": "https://github.com/justcopyai/justcopy-blog-template",
+  "documentation": "https://github.com/justcopyai/justcopy-blog-template#readme"
+}
